@@ -10,6 +10,7 @@
     </li>
   </ol>
 </details>
+
 # Higgs_exercise
 In this exercise, we perform a binary classification task using 2018 CMS Monte Carlo (MC) simulated samples representing the Vector Boson Fusion (VBF) Higgs boson production in the four-lepton final state signal and its main background processes. Two Machine Learning (ML) algorithms will be implemented: an Artificial Neural Network (ANN) and a Random Forest (RF).
 
