@@ -1,20 +1,30 @@
+# Machine Learning Higgs boson Analysis exercise 
+
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#Higgs_exercise">Higgs_exercise</a>
+      <a href="##The-exercise">The exercise</a>
       <ul>
-        <li><a href="#Learning-Goals-of-the-exercise">Learning Goals of the exercise</a></li>
+        <li><a href="##Learning-Goals-of-the-exercise">Learning Goals of the exercise</a></li>
+        <li><a href="##Authors">Authors</a></li>
       </ul>
     </li>
   </ol>
 </details>
 
-# Higgs_exercise
+## Authors
+
+- [Brunella D'Anzi](https://github.com/bdanzi) (University and INFN Bari)
+- [Giorgia Miniello](https://github.com/miniello) (INFN Bari)
+- [Walaa Elmetenawee](https://github.com/elmentenawee) (University and INFN Bari)
+- [Nicola De Filippis](https://github.com/defilip) (INFN and Politecnico Bari)
+
+## The exercise
 In this exercise, we perform a binary classification task using 2018 CMS Monte Carlo (MC) simulated samples representing the Vector Boson Fusion (VBF) Higgs boson production in the four-lepton final state signal and its main background processes. Two Machine Learning (ML) algorithms will be implemented: an Artificial Neural Network (ANN) and a Random Forest (RF).
 
-# Learning Goals of the exercise
+## Learning Goals of the exercise
 * You will learn how a Multivariate Analysis algorithm works and how a Machine Learning model must be implemented;
 * you will acquire basic knowledge about the Higgs boson physics as it is described by the Standard Model. During the exercise, you will be invited to plot some physical quantities in order to understand what is the underlying Particle Physics problem;
 * you will be invited to change hyperparameters of the ANN and the RF algorithms in order to understand better what are the consequences in terms of the model performances;
