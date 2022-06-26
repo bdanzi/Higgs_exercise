@@ -22,7 +22,7 @@ In this exercise, a binary classification task is performed using 2018 CMS Monte
 - [Brunella D'Anzi](https://github.com/bdanzi) (University and INFN Bari)
 - [Giorgia Miniello](https://github.com/miniello) (INFN Bari)
 - [Walaa Elmetenawee](https://github.com/elmentenawee) (University and INFN Bari)
-- [Nicola De Filippis](https://github.com/dfilip) (INFN and Politecnico Bari)
+- [Nicola De Filippis](https://github.com/ndefilip) (INFN and Politecnico Bari)
 
 
 ## Learning Goals of the exercise
